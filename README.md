@@ -1,4 +1,4 @@
-# PID-controller-para-carro-autonomo
+# PID-ControllerForAutonomousCar
 Projeto adaptado de https://github.com/komrad36/PyCruiseControl/tree/master  
 Tentativa de implementação de um Controlador PID para cruzeiro de veículos autônomos  
 Inicialmente considerando inclinação = 0, e com a componente D sendo desnecessária  
